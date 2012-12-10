@@ -1,0 +1,6 @@
+src/= A directory with source code
+jars/ = A directory with jars that this project depends on.
+scripts/ = A directory with scripts for running and testing.
+
+**** scripts/RunServerManager.sh = A script to run the service manager.
+**** scripts/RunLoader.sh = A script to run the loader.
